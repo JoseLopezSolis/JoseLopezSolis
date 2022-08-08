@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-744WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOalbpLskYgrwGbllhSu25Dj Mig8SXJQCLCBGASYHQ/s1600/2000_600px.gif)](https://rishavchanda.10)
 <h1 align="center">Hi 👋, I'm Jose Lopez</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
 <img align="right" alt="cat-coding" width="300" style="padding-top:20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.imore.com%2Fsites%2Fimore.com%2Ffiles%2Fstyles%2Fxlarge%2Fpublic%2Ffield%2Fimage%2F2017%2F12%2Fcoding-cat-01.gif%3Fitok%3DcU-4PGna&f=1&nofb=1">
