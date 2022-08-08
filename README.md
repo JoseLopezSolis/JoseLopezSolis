@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Lopez</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif?cid=ecf05e47f22pkzpfbu7h8l8rqz3sz9y28nhonk1gum2n89jy&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif?cid=ecf05e47f22pkzpfbu7h8l8rqz3sz9y28nhonk1gum2n89jy&rid=giphy.gif&ct=g](https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e470n6boih85kbfk8t7gat1gx03xznmnwj5shu54tth&rid=giphy.webp&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joselopezsolis&label=Profile%20views&color=0e75b6&style=flat" alt="joselopezsolis" /> </p>
 
