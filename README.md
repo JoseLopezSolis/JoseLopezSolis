@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Lopez</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
-<img align="right" alt="cat-coding" width="350px" style="padding-top:20px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0660efe82fa3da42ed56eef013171835%2Ftenor.gif%3Fitemid%3D16596559&f=1&nofb=1">
+<img align="right" alt="cat-coding" width="250px" style="padding-top:20px" src="https://i.ibb.co/FJc1gWH/Whats-App-Image-2022-08-08-at-4-24-59-PM.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joselopezsolis&label=Profile%20views&color=0e75b6&style=flat" alt="joselopezsolis" /> </p>
 
