@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Lopez</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
-<img align="right" alt="Coding" width="400" src="https://twitter.com/SpaceCatPics/status/1153654129224507392">
+<img align="right" alt="Coding" width="400" src="[https://twitter.com/SpaceCatPics/status/1153654129224507392](https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e47xsv8zcexr6k5vtp6vlj4ebnnv3r6zrdtta5ms1wt&rid=giphy.webp&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joselopezsolis&label=Profile%20views&color=0e75b6&style=flat" alt="joselopezsolis" /> </p>
 
