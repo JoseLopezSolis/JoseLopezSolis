@@ -1,5 +1,3 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.marctrenttucker.com%2Fwp-content%2Fuploads%2F2018%2F01%2Fbanner_programming.png&f=1&nofb=1" alt="">
-
 <h1 align="center">Hi 👋, I'm Jose Lopez</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
 
