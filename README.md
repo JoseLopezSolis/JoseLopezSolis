@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/_josedev" target="blank"><img src="https://img.shields.io/twitter/follow/_josedev?logo=twitter&style=for-the-badge" alt="_josedev" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio website.**
+- 🔭 I’m currently working on **My portfolio website.**
 
 - 🌱 I’m currently learning **Web development and data bases.**
 
