@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio website.**
 
-- 🌱 I’m currently learning **New fuctionalities in javaScript and React**
+- 🌱 I’m currently learning **new fuctionalities in javaScript and React**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, web development.**
 
