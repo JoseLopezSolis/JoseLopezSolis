@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Improving my hard skills and soft skills**
+- 🔭 I’m currently working on **improving my hard skills and soft skills**
 - 🌱 I’m currently learning **advanced React and Ruby on Rails**
 - 💬 Ask me about **web development (FRONT/BACK)**
 - 📫 How to reach me **pepeboss114@gmail.com**
