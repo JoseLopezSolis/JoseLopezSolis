@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Improving my hard skills and soft skills**
 
-- 🌱 I’m currently learning **Advanced React and Ruby on rails**
+- 🌱 I’m currently learning **advanced React and Ruby on rails**
 
-- 💬 Ask me about **Web development, (FRONT/BACK)**
+- 💬 Ask me about **web development, (FRONT/BACK)**
 
 - 📫 How to reach me **pepeboss114@gmail.com**
   
-- 🗺️ Languages (English B2/ Spanish native)
+- 🗺️ Languages **(English B2/ Spanish native)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
