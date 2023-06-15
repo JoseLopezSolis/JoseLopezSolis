@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_josedev" target="blank"><img src="https://img.shields.io/twitter/follow/_josedev?logo=twitter&style=for-the-badge" alt="_josedev" /></a> </p>
 
-- 🔭 I’m currently working on **Improving my technique and soft skills**
+- 🔭 I’m currently working on **Improving my hard skills and soft skills**
 
 - 🌱 I’m currently learning **Advanced React and Ruby on rails**
 
