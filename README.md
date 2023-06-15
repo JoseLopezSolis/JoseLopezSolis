@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/_josedev" target="blank"><img src="https://img.shields.io/twitter/follow/_josedev?logo=twitter&style=for-the-badge" alt="_josedev" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio website.**
+- 🔭 I’m currently working on **Improving my technique and soft skills**
 
-- 🌱 I’m currently learning **new fuctionalities in javaScript and React**
+- 🌱 I’m currently learning **Advanced React and Ruby on rails**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, web development.**
+- 💬 Ask me about **Web development, (FRONT/BACK)**
 
-- 📫 How to reach me **jlopez114@ucol.mx**
-
-- ⚡ Fun fact **I can speak two different languages: English & Spanish.**
+- 📫 How to reach me **pepeboss114@gmail.com**
+  
+- 🗺️ Languages (English B2/ Spanish native)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
