@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **improving my hard skills and soft skills**
 - 🌱 I’m currently learning **advanced React and Ruby on Rails**
-- 💬 Ask me about **web development (FRONT/BACK)**
+- 💬 Ask me about **web development (front/back)**
 - 📫 How to reach me **pepeboss114@gmail.com**
 - 🗺️ Languages **(English B2/ Spanish native)**
 
