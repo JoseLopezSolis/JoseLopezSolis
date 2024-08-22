@@ -7,13 +7,7 @@
     <img src="https://img.shields.io/twitter/follow/_josedev?logo=twitter&style=for-the-badge" alt="_josedev" />
   </a>
 </p>
-<p align="left">
-  <a href="https://twitter.com/_josedev" target="blank"><img class="language" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_josedev" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/lopez-solis-jose-guadalupe-a69073216" target="blank"><img class="language" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez-solis-jose-guadalupe-a69073216" height="30" width="40" /></a>
-  <a href="https://fb.com/joseguadalupelopezsolis" target="blank"><img class="language" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joseguadalupelopezsolis" height="30" width="40" /></a>
-  <a href="https://instagram.com/its_joselops" target="blank"><img class="language" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pepeboss" height="30" width="40" /></a>
-  <a href="https://discord.gg/#5431" target="blank"><img class="language" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5431" height="30" width="40" /></a>
-</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img class="language" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
