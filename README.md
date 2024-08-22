@@ -7,12 +7,6 @@
     <img src="https://img.shields.io/twitter/follow/_josedev?logo=twitter&style=for-the-badge" alt="_josedev" />
   </a>
 </p>
-🔭 I’m currently working on improving both my soft and hard skills.
-🌱 I’m currently diving deeper into advanced React and Ruby on Rails while expanding my expertise in Django.
-💬 Ask me about web development (front/back), scalable architectures, and creative problem-solving.
-📫 Reach me at pepeboss114@gmail.com
-🗺️ Languages: English (B2) / Spanish (native)
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/_josedev" target="blank"><img class="language" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_josedev" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/lopez-solis-jose-guadalupe-a69073216" target="blank"><img class="language" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez-solis-jose-guadalupe-a69073216" height="30" width="40" /></a>
