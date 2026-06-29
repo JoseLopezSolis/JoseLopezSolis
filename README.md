@@ -2,7 +2,7 @@
 
 **Software Engineer · .NET MAUI Developer**
 
-.NET MAUI, React and Python developer developer based in Colima, Mexico 🇲🇽. I build production apps with .NET MAUI and run several ventures on the side. I care about clean architecture, shipping real products.
+.NET MAUI, React and Python developer based in Colima, Mexico 🇲🇽. I build production apps with .NET MAUI and run several ventures on the side. I care about clean architecture, shipping real products.
 
 ---
 
