@@ -12,7 +12,7 @@
 - **Architecture & patterns** — MVVM (CommunityToolkit), SOLID, design patterns, CI/CD
 - **Currently building** — SomaticVR (VR full-body tracker app)
 - **Side projects** — a real state web page *Desarrollos del sur* made with React, Typescript and Tailwind.
-- **Claude developer certified**
+- **I love how AI is moving and using tools to boost my work**
 
 ---
 
