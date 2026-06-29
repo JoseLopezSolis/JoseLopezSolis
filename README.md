@@ -11,7 +11,7 @@ Cross-platform mobile developer based in Colima, Mexico 🇲🇽. I build produc
 - **.NET MAUI / cross-platform mobile** — iOS, Android, Windows, Mac Catalyst
 - **Architecture & patterns** — MVVM (CommunityToolkit), SOLID, design patterns, CI/CD
 - **Currently building** — SomaticVR (VR full-body tracker app)
-- **Side projects** — a Shopify streetwear brand, a device-resale store, and a lending-tracker app
+- **Side projects** — a real state web page *Desarrollos del sur* made with React and Typescript.
 
 ---
 
