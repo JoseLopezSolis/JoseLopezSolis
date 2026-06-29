@@ -11,7 +11,8 @@
 - **.NET MAUI / cross-platform mobile** — iOS, Android, Windows, Mac Catalyst
 - **Architecture & patterns** — MVVM (CommunityToolkit), SOLID, design patterns, CI/CD
 - **Currently building** — SomaticVR (VR full-body tracker app)
-- **Side projects** — a real state web page *Desarrollos del sur* made with React and Typescript.
+- **Side projects** — a real state web page *Desarrollos del sur* made with React, Typescript and Tailwind.
+- **Claude developer certified**
 
 ---
 
