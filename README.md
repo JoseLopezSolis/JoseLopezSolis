@@ -1,4 +1,4 @@
-# Hi, I'm Jose 👋
+# Hi, I'm Jose Lopez 👋
 
 **Software Engineer · .NET MAUI Developer**
 
